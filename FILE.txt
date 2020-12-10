@@ -1,1 +1,11 @@
-MILICA
+git init
+
+git add .
+
+git commit -m ""
+
+git remote add github LINK
+
+git push -f github master
+
+CULIBRK 
